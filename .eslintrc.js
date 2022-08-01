@@ -203,6 +203,7 @@ module.exports = {
     }],
     'array-bracket-spacing': [2, 'never'],
     // 关闭vue组件以单个单词命名报警
-    'vue/multi-word-component-names': 0
+    'vue/multi-word-component-names': 0,
+    'import/prefer-default-export': 'off'
   }
 }
